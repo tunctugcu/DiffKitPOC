@@ -1,0 +1,6 @@
+framework module Pods_DiffKitPOCTests {
+  umbrella header "Pods-DiffKitPOCTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

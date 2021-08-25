@@ -1,0 +1,21 @@
+PODS:
+  - DifferenceKit (1.2.0):
+    - DifferenceKit/Core (= 1.2.0)
+    - DifferenceKit/UIKitExtension (= 1.2.0)
+  - DifferenceKit/Core (1.2.0)
+  - DifferenceKit/UIKitExtension (1.2.0):
+    - DifferenceKit/Core
+
+DEPENDENCIES:
+  - DifferenceKit
+
+SPEC REPOS:
+  trunk:
+    - DifferenceKit
+
+SPEC CHECKSUMS:
+  DifferenceKit: 5659c430bb7fe45876fa32ce5cba5d6167f0c805
+
+PODFILE CHECKSUM: 96e67e6d8f7c2a42255432a56a4e56ad4c036469
+
+COCOAPODS: 1.10.1
